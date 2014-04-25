@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NestedLists</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_view">View</string>
+    <string name="title_activity_items_view">ItemsViewActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="button_add">add</string>
+    <string name="button_done">Done</string>
+    <string name="edit_message">Enter new item</string>
+    <string name="button_options">options</string>
+    <string name="button_edit">edit</string>
+    <string name="button_delete">delete</string>
+    <string name="title_activity_item">ItemActivity</string>
+    <string name="title_activity_item_edit">ItemEditActivity</string>
+    <string name="edit_field"></string>
+    <string name="button_ok">OK</string>
+    <string name="button_addList">add</string>
+    <string name="enter_listName">Enter name of new list</string>
+    <string name="footer_text">Edit</string>
+    <string name="button_deleteList">delete</string>
+    <string name="edit_list_field_hint"></string>
+
+</resources>
